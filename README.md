@@ -8,6 +8,8 @@ Contact List - Back-end
 ## Sobre
 API REST de lista de contatos, permitindo que o usuário salve o nome, email e número de telefone da pessoa desejada.
 
+Front end: [contactlist_frontend](https://github.com/gabriel-vitor/contactlist_frontend)
+
 ## Ferramentas utilizadas
 
 - [Java](https://www.java.com/pt-BR/)
